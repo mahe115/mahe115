@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe115&label=Profile%20views&color=0e75b6&style=flat" alt="mahe115" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahe115" alt="mahe115" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning Specialization By Stanford University**
 
