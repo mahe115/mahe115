@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe115&label=Profile%20views&color=0e75b6&style=flat" alt="mahe115" /> </p>
 
-
+- 📫 You can mail me at the id -  mahendran608806@gmail.com 
+- I am also in LinkedIn - https://www.linkedin.com/in/mahendran-b-95333521a/
 - 🌱 I’m currently learning **Machine Learning Specialization By Stanford University**
 
 <h3 align="left">Connect with me:</h3>
