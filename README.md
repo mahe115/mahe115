@@ -6,8 +6,8 @@
 
 - 📫 You can mail me at the id -  mahendran608806@gmail.com 
 - I am also in LinkedIn - https://www.linkedin.com/in/mahendran-b-95333521a/
-- 🌱 I’m currently learning **Machine Learning Specialization By Stanford University**
-
+- 🌱Im Currently  Crafting a comprehensive platform combining LLM (Mistral) with computer vision to revolutionize medical diagnostics.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahendran-b-95333521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendran-b-95333521a" height="30" width="40" /></a>
