@@ -1,24 +1,61 @@
-
 <h1 align="center">Hi 👋, I'm Mahendran B</h1>
-<h3 align="center">Passionate Machine Learning and Testing Engineer | Specializing in AI Appplications Testing, LLMs, and Generative AI</h3>
+<h3 align="center">R&D Test Engineer | AI Applications Testing | LLMs & Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe115&label=Profile%20views&color=0e75b6&style=flat" alt="mahe115" /> </p>
+---
 
-- 📫 You can mail me at the id -  mahendran608806@gmail.com 
-- I am also in LinkedIn - https://www.linkedin.com/in/mahendran-b-95333521a/
-- 🌱Im Currently  Crafting a comprehensive platform combining LLM (Mistral) with computer vision to revolutionize medical diagnostics.
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahendran-b-95333521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendran-b-95333521a" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahendran321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahendran321" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahe_mahendran81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahe_mahendran81" height="30" width="40" /></a>
+## 🚀 About Me
+- 🔬 R&D-focused Test Engineer specializing in **AI applications, LLM testing, and system validation**
+- ⚙️ Experienced in **API, performance, and non-functional testing**
+- 📊 Strong focus on **latency, system reliability, and high-volume data processing**
+- 🧠 Passionate about **Generative AI, Machine Learning, and intelligent systems**
+
+---
+
+## 🛠️ Current Work
+- 🚀 Currently developing a platform integrating **LLMs (Mistral) + Computer Vision** for medical diagnostics
+- 🧪 Working on **AI system evaluation, latency analysis, and performance optimization**
+
+---
+
+## 💻 Tech Stack
+
+### 🔹 Programming & Databases
+`Python` `C++` `SQL` `MySQL` `MongoDB`
+
+### 🔹 Testing & Automation
+`Functional Testing` `API Testing` `Performance Testing`  
+`Selenium` `PyTest` `Postman`
+
+### 🔹 DevOps & Systems
+`Azure DevOps` `CI/CD Pipelines` `Git` `Linux`  
+`Docker` `Kubernetes`
+
+### 🔹 AI & ML
+`Generative AI` `LLMs` `Computer Vision`  
+`Scikit-learn` `TensorFlow` `PyTorch`
+
+---
+
+## 📌 Key Highlights
+- ⚡ Built automation frameworks reducing manual testing effort by ~70%
+- 📈 Improved system performance and reduced latency in high-volume applications
+- 🤖 Tested and validated **LLM-based systems** for accuracy and reliability
+- ☁️ Experience with **cloud-based AI systems and data pipelines**
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **mahe.mahendran806@gmail.com**
+- 💼 LinkedIn: [Mahendran B](https://www.linkedin.com/in/mahendran-b-95333521a/)
+- 💻 GitHub: [github.com/Mahendran](https://github.com/Mahendran)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahe115&show_icons=true&locale=en&layout=compact" alt="top langs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahe115&show_icons=true&locale=en&layout=compact" alt="mahe115" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahe115&" alt="mahe115" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahe115" alt="streak stats" />
+</p>
