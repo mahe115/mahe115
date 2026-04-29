@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahendran B</h1>
-<h3 align="center">Passionate AI and Machine Learning Engineer | Specializing in AI, LLMs, and Generative AI</h3>
+<h3 align="center">Passionate Machine Learning and Testing Engineer | Specializing in AI Appplications Testing, LLMs, and Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe115&label=Profile%20views&color=0e75b6&style=flat" alt="mahe115" /> </p>
 
