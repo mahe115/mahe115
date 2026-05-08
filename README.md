@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahendran B</h1>
-<h3 align="center">R&D Test Engineer | AI Applications Testing | LLMs & Generative AI</h3>
+<h3 align="center"> AI Applications Testing| Data Analytics | LLMs & Generative AI</h3>
 
 ---
 
