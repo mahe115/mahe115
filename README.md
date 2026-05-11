@@ -15,16 +15,15 @@
 
 ## `whoami`
 
-```python
-class Mahendran:
-    role        = "Gen AI Research Intern @ TekWissen"
-    focus       = ["Agentic AI", "LLMs", "RAG", "LangGraph"]
-    building    = "AI systems that go beyond demos — to actual production"
-    philosophy  = "Don't just use AI. Understand it. Break it. Rebuild it better."
-    open_to     = ["Full-time AI/ML roles", "Collaborations", "Open Source"]
-    fun_fact    = "I once automated 200+ coding submissions so I could focus on real problems 🤖"
-```
+## 👨‍💻 About Me
 
+🚀 AI Engineer focused on building **end-to-end intelligent systems**  
+🧠 Working with **LLMs, RAG, and Agentic AI workflows**  
+⚙️ Currently **Gen AI Research Intern @ TekWissen**  
+📈 Strong in **ML + Data + Deployment (Azure, Docker, Kubernetes)**  
+🤖 Automated 200+ coding problems — because manual work is overrated  
+
+💡 *"I build AI systems that move beyond demos into real-world impact."*
 ---
 
 ## 🔭 What I'm Currently Working On
