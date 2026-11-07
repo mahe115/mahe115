@@ -6,8 +6,11 @@
 <img src="https://avatars.githubusercontent.com/u/54760335?v=4" width="120px" style="border-radius:50%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahendran--boominathan.vercel.app-6E40C9?style=for-the-badge)](https://mahendran-boominathan.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahendran-b-95333521a/)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahe.mahendran806@gmail.com)
+
+[![GitScore for mahe115](https://gitscore.live/api/badge/mahe115)](https://gitscore.live/mahe115)
 
 </div>
 
