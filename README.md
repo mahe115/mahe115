@@ -9,29 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahendran-b-95333521a/)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahe.mahendran806@gmail.com)
 
-<a href="https://gitscore.live/mahe115">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/mahe115?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/mahe115?style=card" alt="GitScore for mahe115" />
-  </picture>
-</a>
 
-</div>
-
----
-
-## `whoami`
-
-## 👨‍💻 About Me
-
-🚀 AI Engineer focused on building **end-to-end intelligent systems**  
-🧠 Working with **LLMs, RAG, and Agentic AI workflows**  
-⚙️ Comepleted  **Gen AI Research Intern @ TekWissen**  
-📈 Strong in **ML + Data + Deployment (Azure, Docker, Kubernetes)**  
-🤖 Automated 200+ coding problems — because manual work is overrated  
 
 💡 *"I build AI systems that move beyond demos into real-world impact."*
----
+
 
 ## 🔭 What I'm Currently Working On
 
@@ -41,6 +22,31 @@
 - 🌱 Learning: **LangChain Agents · Agentic RAG · Multi-modal LLMs**
 
 ---
+
+## 🚀 Highlight Projects
+
+> These aren't just assignments. Each one solved a real problem.
+
+| | Project | What makes it cool |
+|---|---------|--------------------|
+| 🧠 | [**AI Mail Manager**](https://github.com/mahe115/AI-Mail-Manager) | GPT-4 + RAG + sentiment analysis — fully autonomous email assistant for 1,000+ monthly emails |
+| 🫁 | [**Brain Tumour Detection**](https://github.com/mahe115/Brain_Tumour_Detection) | CNN on 44K MRI images, 91% accuracy across 4 tumor types — real diagnostic utility |
+| 🕵️ | [**Deepfake Image Classification**](https://github.com/mahe115/Deepfake-image-classification) | Inception ResNetV1 on 140K images — IEEE Hackathon Runner-Up ⭐ |
+| 🎙️ | [**Dubbing Automation System**](https://github.com/mahe115/Dubbing-Automation-System) | End-to-end AI dubbing pipeline with voice synthesis |
+| ⚡ | [**Skillrack Complete Automation**](https://github.com/mahe115/Skillrack-Complete-Automation) | Selenium bot that solved 200+ problems — because I'd rather automate than repeat |
+| 📈 | [**Stock Market Trend Analysis**](https://github.com/mahe115/Stock-Market-Trend-Analysis) | 3-year Google & Tesla market pattern analysis — 10 actionable insights |
+| ⚽ | [**FIFA Player Analytics**](https://github.com/mahe115/FIFA-Player-Analytics) | Power BI dashboard for 18K+ players across 10 years of FIFA data |
+| 🍕 | [**Food Delivery System**](https://github.com/mahe115/Food-Delivery-System-Springboot) | Production-grade Spring Boot backend — async queues, clean architecture |
+
+---
+<a href="https://gitscore.live/mahe115">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/mahe115?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/mahe115?style=card" alt="GitScore for mahe115" />
+  </picture>
+</a>
+
+</div>
 
 ## 🛠️ Things I Build With
 
@@ -73,23 +79,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Highlight Projects
-
-> These aren't just assignments. Each one solved a real problem.
-
-| | Project | What makes it cool |
-|---|---------|--------------------|
-| 🧠 | [**AI Mail Manager**](https://github.com/mahe115/AI-Mail-Manager) | GPT-4 + RAG + sentiment analysis — fully autonomous email assistant for 1,000+ monthly emails |
-| 🫁 | [**Brain Tumour Detection**](https://github.com/mahe115/Brain_Tumour_Detection) | CNN on 44K MRI images, 91% accuracy across 4 tumor types — real diagnostic utility |
-| 🕵️ | [**Deepfake Image Classification**](https://github.com/mahe115/Deepfake-image-classification) | Inception ResNetV1 on 140K images — IEEE Hackathon Runner-Up ⭐ |
-| 🎙️ | [**Dubbing Automation System**](https://github.com/mahe115/Dubbing-Automation-System) | End-to-end AI dubbing pipeline with voice synthesis |
-| ⚡ | [**Skillrack Complete Automation**](https://github.com/mahe115/Skillrack-Complete-Automation) | Selenium bot that solved 200+ problems — because I'd rather automate than repeat |
-| 📈 | [**Stock Market Trend Analysis**](https://github.com/mahe115/Stock-Market-Trend-Analysis) | 3-year Google & Tesla market pattern analysis — 10 actionable insights |
-| ⚽ | [**FIFA Player Analytics**](https://github.com/mahe115/FIFA-Player-Analytics) | Power BI dashboard for 18K+ players across 10 years of FIFA data |
-| 🍕 | [**Food Delivery System**](https://github.com/mahe115/Food-Delivery-System-Springboot) | Production-grade Spring Boot backend — async queues, clean architecture |
 
 ---
 
