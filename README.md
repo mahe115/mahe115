@@ -27,7 +27,7 @@
 
 🚀 AI Engineer focused on building **end-to-end intelligent systems**  
 🧠 Working with **LLMs, RAG, and Agentic AI workflows**  
-⚙️ Currently **Gen AI Research Intern @ TekWissen**  
+⚙️ Comepleted  **Gen AI Research Intern @ TekWissen**  
 📈 Strong in **ML + Data + Deployment (Azure, Docker, Kubernetes)**  
 🤖 Automated 200+ coding problems — because manual work is overrated  
 
