@@ -3,7 +3,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mahendran+B+%F0%9F%91%8B;I+build+AI+that+actually+works;From+MRI+scans+to+LLM+pipelines;I+ship%2C+I+learn%2C+I+repeat+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://avatars.githubusercontent.com/u/54760335?v=4" width="120px" style="border-radius:50%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahendran--boominathan.vercel.app-6E40C9?style=for-the-badge)](https://mahendran-boominathan.vercel.app/)
 
