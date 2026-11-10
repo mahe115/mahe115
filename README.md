@@ -15,7 +15,7 @@
 
 
 ## 🔭 What I'm Currently Working On
-
+- **Exploring the Job opportunities in Tech Field**
 - 🧠 **Agentic AI pipelines** — multi-agent systems with LangGraph that reason, plan & act autonomously  
 - 🎙️ **[Dubbing Automation System](https://github.com/mahe115/Dubbing-Automation-System)** — AI-powered video dubbing with voice cloning  
 - 📊 **[Cricket Dashboard Analytics](https://github.com/mahe115/Cricket-Dashboard-Analytics)** — deep sports analytics with Python + Power BI  
